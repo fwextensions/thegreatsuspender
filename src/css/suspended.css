@@ -160,8 +160,7 @@ body.img-preview-mode .gsTopBar {
     text-align: center;
 }
 .suspendedMsg img {
-    height: 180px;
-    margin-bottom: 30px;
+    margin: 0 0 30px 120px;
 }
 .suspendedMsg-instr {
     font-size: 20px;
